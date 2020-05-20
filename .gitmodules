@@ -1,6 +1,6 @@
 [submodule "mud-server"]
 	path = mud-server
 	url = https://github.com/ch3224bin/mud-server.git
-[submodule "mud_client"]
-	path = mud_client
-	url = https://github.com/ch3224bin/mud_client.git
+[submodule "mud-client"]
+	path = mud-client
+	url = https://github.com/ch3224bin/mud-client.git
